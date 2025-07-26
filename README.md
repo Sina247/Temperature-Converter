@@ -1,6 +1,6 @@
 # 🌡️ Temperature Converter
 
-A sleek and user-friendly temperature converter built with **HTML**, **Tailwind CSS**, and **JavaScript**. Convert instantly between Celsius, Fahrenheit, and Kelvin in a clean, responsive interface.
+A sleek and user-friendly temperature converter built with **HTML**, **Tailwind CSS** and **JavaScript**. Convert instantly between Celsius, Fahrenheit and Kelvin in a clean, responsive interface.
 
 ---
 
